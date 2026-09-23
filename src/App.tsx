@@ -399,7 +399,7 @@ export default function App() {
             <input
               type="text"
               value={nombre}
-              placeholder="Ej.: Juan el toro Dantonio"
+              placeholder="Ej.: Juan el toro D antonio"
               onChange={(e) =>
                 setNombre(e.target.value)
               }
